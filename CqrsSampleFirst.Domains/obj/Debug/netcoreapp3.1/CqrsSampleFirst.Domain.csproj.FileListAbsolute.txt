@@ -1,0 +1,8 @@
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Domains\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.deps.json
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Domains\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Domains\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.pdb
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Domains\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.AssemblyInfoInputs.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Domains\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.AssemblyInfo.cs
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Domains\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Domains\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Domains\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.pdb

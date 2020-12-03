@@ -1,0 +1,15 @@
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Application.deps.json
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Application.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Application.csprojAssemblyReference.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Application.AssemblyInfoInputs.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Application.AssemblyInfo.cs
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Application.runtimeconfig.json
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Application.runtimeconfig.dev.json
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Application.genruntimeconfig.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Application.pdb
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Application.csproj.CoreCompileInputs.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Application.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Application.pdb
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.pdb
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Application\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Application.csproj.CopyComplete

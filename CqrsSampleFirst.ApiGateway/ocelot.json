@@ -1,0 +1,18 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "UseServiceDiscovery": true,
+      "ServiceName": "test-service",
+      "UpstreamPathTemplate": "/gateway-test1/{everything}",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Type": "Eureka"
+    },
+    "BaseUrl": "http://localhost:7000"
+  }
+}

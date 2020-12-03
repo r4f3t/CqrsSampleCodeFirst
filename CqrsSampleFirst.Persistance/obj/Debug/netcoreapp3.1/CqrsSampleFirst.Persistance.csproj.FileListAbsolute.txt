@@ -1,0 +1,17 @@
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.deps.json
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.csprojAssemblyReference.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.AssemblyInfoInputs.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.AssemblyInfo.cs
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.runtimeconfig.json
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.runtimeconfig.dev.json
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.genruntimeconfig.cache
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.pdb
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Application.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Application.pdb
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\bin\Debug\netcoreapp3.1\CqrsSampleFirst.Domain.pdb
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.csproj.CopyComplete
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.dll
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.pdb
+C:\Users\rafet.parlak\source\repos\CqrsSampleFirst\CqrsSampleFirst.Persistance\obj\Debug\netcoreapp3.1\CqrsSampleFirst.Persistance.csproj.CoreCompileInputs.cache

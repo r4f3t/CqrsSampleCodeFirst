@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Persistance\\CqrsSampleFirst.Persistance.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Application\\CqrsSampleFirst.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Application\\CqrsSampleFirst.Application.csproj",
+        "projectName": "CqrsSampleFirst.Application",
+        "projectPath": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Application\\CqrsSampleFirst.Application.csproj",
+        "packagesPath": "C:\\Users\\rafet.parlak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafet.parlak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Domains\\CqrsSampleFirst.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Domains\\CqrsSampleFirst.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Domains\\CqrsSampleFirst.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Domains\\CqrsSampleFirst.Domain.csproj",
+        "projectName": "CqrsSampleFirst.Domain",
+        "projectPath": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Domains\\CqrsSampleFirst.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafet.parlak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Domains\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafet.parlak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Persistance\\CqrsSampleFirst.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Persistance\\CqrsSampleFirst.Persistance.csproj",
+        "projectName": "CqrsSampleFirst.Persistance",
+        "projectPath": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Persistance\\CqrsSampleFirst.Persistance.csproj",
+        "packagesPath": "C:\\Users\\rafet.parlak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rafet.parlak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Application\\CqrsSampleFirst.Application.csproj": {
+                "projectPath": "C:\\Users\\rafet.parlak\\source\\repos\\CqrsSampleFirst\\CqrsSampleFirst.Application\\CqrsSampleFirst.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
